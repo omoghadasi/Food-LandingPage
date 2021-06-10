@@ -1,0 +1,13 @@
+@media screen and (max-width: 721px){
+    .wrapper{
+        width: 100%;
+    }
+    .landing-services{
+        height: auto;
+    }
+    .services ul li{
+        width: 50%;
+        margin: 0;
+        padding: 15px;
+    }
+}
